@@ -1,9 +1,18 @@
 
-# Welcome to HLS interview!!
+# Welcome to Solution interview!!
+Code exam for interview 
 
-Code exam for interview
+## Information
+```
+Name: Truong Thanh Hoa
+Email: truongg.thanhhoaa@gmail.com
+Phone: 0794755206
+Position: NodeJs Developer Intern
+```
 
 ```
+## Solution
+
 Mini-Max Sum
 
 Given five positive integers, find the minimum and maximum values that can be calculated by summing
